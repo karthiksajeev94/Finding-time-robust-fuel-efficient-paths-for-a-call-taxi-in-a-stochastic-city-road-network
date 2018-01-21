@@ -1,0 +1,6 @@
+Origin,Destination,Vehicle Mileage,Day of Week,Vehicle Departure time,Percentage of signals whose timings vary according to the time of the day,Percentage of intersections where delay vary according to the time of the day,Greenest path,Probability that the path is greenest,Average distance of the greenest path(km),Average travel time of the greenest path(sec.),Coefficient of variation of the average time,Normalized probability score,Normalized average travel time score,Normalized coefficient of variation path score,Combined score for the path
+27,37,19.000000,4,1630,20.000000,40.000000,27-26-42-41-25-24-38-36-37-,0.541000,15.000000,2127.157227,0.075662,1.000000,0.936931,0.503994,0.472208
+,,,,,,,27-26-42-41-25-24-38-23-37-,0.354000,14.000000,2184.242920,0.070363,0.654344,0.912444,0.541953,0.323574
+,,,,,,,27-43-42-41-25-24-38-23-37-,0.042000,14.000000,2190.333252,0.075361,0.077634,0.909907,0.506011,0.035744
+,,,,,,,27-43-42-41-25-24-38-36-37-,0.061000,15.000000,2158.836182,0.063417,0.112754,0.923183,0.601312,0.062592
+,,,,,,,27-9-8-7-25-24-38-36-37-,0.002000,18.000000,1993.000000,0.038133,0.003697,1.000000,1.000000,0.003697
