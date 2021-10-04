@@ -1,4 +1,4 @@
-# Finding-time-robust-fuel-efficient-paths-for-a-call-taxi-in-a-stochastic-city-road-network
+# Finding time robust fuel efficient paths for a call taxi in a stochastic city road network
 Published in the Journal of Advanced Transportation
 
 The study aims to find the ideal path for a call taxi moving through an urban road network having real-world obstacles like traffic signals, arc intersections and speed breakers.
